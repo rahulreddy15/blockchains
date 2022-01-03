@@ -73,4 +73,3 @@ bc.proof_of_work()
 bc.proof_of_work()
 bc.proof_of_work()
 bc.proof_of_work()
-
